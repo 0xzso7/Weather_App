@@ -38,7 +38,7 @@ Replace:
 units=imperial
 ```
 With:
-```
+```python
 units=metric
 ```
 
