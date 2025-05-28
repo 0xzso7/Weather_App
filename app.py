@@ -2,7 +2,7 @@ import requests
 import tkinter as tk
 from PIL import Image, ImageTk
 
-API_KEY = 'd26ccbceeef01b9e6027427e1c759969'
+API_KEY = '...' # Replace with your actual API key
 
 def get_weather_data(city):
     try:
